@@ -8,3 +8,5 @@ if Go is already installed in the system.
 
 The alternative if Go is not installed, is using generated binary file. To run, use `./go_csv_concurrent` command.
 
+## Changelog ##
+- Add java project with runnable implementation. I tried to implement similar approach in java using Runnable interface and ExecutorService.
